@@ -1,24 +1,9 @@
 # museum-demo
 
-## Project setup
-```
-npm install
-```
+3d场景漫游项目DEMO
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 功能：
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 在3d画面中，第一人称视角，点击前景，鼠标滑动移动视角
+- 点击高亮物体
+- 声源添加，离近自动播放音频，音量近大远小
